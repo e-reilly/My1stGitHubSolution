@@ -37,6 +37,16 @@ mode="Global">
 			<comment/>
 			<bindings/>
 		</keysequenceitem>
+		<keysequenceitem
+		enabled="True"
+		optional="False"
+		duration="100ms"
+		searchpropertyid="e2dff186-ee5e-43e2-9153-f1abb000e3b8"
+		KeySequence=" world! anybody out there?"
+		presstime="100ms">
+			<comment/>
+			<bindings/>
+		</keysequenceitem>
 	</recorditems>
 	<repository
 	name="My1stGitHubSolutionRepository"
