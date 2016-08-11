@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report>
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="25986a983d68630"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="ereilly"
+		host="CTELAPTOP558"
+		rxversion="6.0.0.0"
+		osversion="Windows 7 Service Pack 1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="3840x1080"
+		timestamp="8/11/2016 10:58:28 AM"
+		timestampiso="2016-08-11T09:58:28"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings/>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.229"
+			timeRelativeToTestModuleStartTime="00:00.232"
+			timeWallClock="10:58:29"
+			time="00:00.229"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Explorer.Word2016' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/menubar[@processname='explorer']/?/?/container[@caption='Running applications']/?/?/toolbar[@accessiblename='Running applications']/button[@accessiblename='Word 2016']"
+				fullname="My1stGitHubSolutionRepository.Explorer.Word2016"
+				id="bd2c7ccc78044e8084bbefd61ac82845"
+				timeout="60000"
+				codefile="c:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.204"
+			timeRelativeToTestModuleStartTime="00:01.207"
+			timeWallClock="10:58:30"
+			time="00:01.204"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Word.AIOStartDocument' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Word']//container[@automationid='BackstageView']/?/?/container[@name='New']/container[@name='Featured']/link[@name='Blank document']"
+				fullname="My1stGitHubSolutionRepository.Word.AIOStartDocument"
+				id="9ab4a77614b54262adc14923e21a20cc"
+				timeout="60000"
+				codefile="c:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.622"
+			timeRelativeToTestModuleStartTime="00:03.625"
+			timeWallClock="10:58:32"
+			time="00:03.622"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'hello'.
+			</message>
+			<metainfo
+				itemindex="2"
+				codefile="c:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\Recording1.cs"
+				codeline="90"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.293"
+			timeRelativeToTestModuleStartTime="00:04.296"
+			timeWallClock="10:58:33"
+			time="00:04.293"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Document1Word.Close' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Document1 - Word']/container[@caption='MsoDockTop']/container[@caption='Ribbon']//container[@name='Ribbon']/button[@name='Close']"
+				fullname="My1stGitHubSolutionRepository.Document1Word.Close"
+				id="273e81cc4cbc40339087c24e8c5211e8"
+				timeout="60000"
+				codefile="c:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.338"
+			timeRelativeToTestModuleStartTime="00:05.341"
+			timeWallClock="10:58:34"
+			time="00:05.338"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MicrosoftWord.DontSave' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Microsoft Word']/?/?/element[@name='Microsoft Word']/button[@name='Don''t Save']"
+				fullname="My1stGitHubSolutionRepository.MicrosoftWord.DontSave"
+				id="d02dee3da7d6488f81dd72acb9de8870"
+				timeout="60000"
+				codefile="c:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info"/>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,8 @@
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\bin\Debug\My1stGitHubSolution.rxtmg
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\bin\Debug\My1stGitHubSolution.rxtst
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\bin\Debug\My1stGitHubSolution.exe.config
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\bin\Debug\My1stGitHubSolution.exe
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\bin\Debug\My1stGitHubSolution.pdb
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\obj\x86\Debug\My1stGitHubSolution.csprojResolveAssemblyReference.cache
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\obj\x86\Debug\My1stGitHubSolution.exe
+C:\GitHub_Branches\My1stGitHubSolution\My1stGitHubSolution\My1stGitHubSolution\obj\x86\Debug\My1stGitHubSolution.pdb

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{1E3B6DF3-CCA4-45CE-A994-514C798CF151}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>8e820c80-ccb0-4a38-848d-0b43bbffd732</string>
+      <string>20bfd2b5-2eb4-4291-8bf9-f1e537c19b19</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution My1stGitHubSolution[My1stGitHubSolution[Modules[RecordedModules[]]]]]&#xD;&#xA;Solution My1stGitHubSolution\My1stGitHubSolution\Modules\RecordedModules\CloseWord.rxrec&#xD;&#xA;Solution My1stGitHubSolution" />
+  <StartupProject value="{1E3B6DF3-CCA4-45CE-A994-514C798CF151}" />
+</Properties>
