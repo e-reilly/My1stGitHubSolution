@@ -83,6 +83,10 @@ namespace My1stGitHubSolution.Modules.RecordedModules
             Keyboard.Press("hello");
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence ' world! anybody out there?'.", new RecordItemIndex(1));
+            Keyboard.Press(" world! anybody out there?");
+            Delay.Milliseconds(0);
+            
         }
 
 #region Image Feature Data
